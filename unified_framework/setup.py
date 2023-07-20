@@ -7,7 +7,7 @@ setup(
    version='1.0',
    description='Package with UF IO functionalities',
    author='Vignesh Sundar',
-   author_email='vignesh.sundar@cummins.com',
+   author_email='mailtovignesh88@gmail.com',
    packages=find_packages(include=['io_package']),  #same as name
    entry_points={
     'group_1': 'run=io_package.io_module:LoggerProvider'
