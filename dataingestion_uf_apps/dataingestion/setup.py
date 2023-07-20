@@ -10,7 +10,7 @@ setup(
    version='1.0',
    description='Module to fetch the arguments',
    author='Vignesh Sundar',
-   author_email='vignesh.sundar@cummins.com',
+   author_email='mailtovignesh88@gmail.com',
    #packages=find_packages(include=['Pipeline_Builder']),  #same as name
    packages=["config", "resources", "Pipeline_Builder"],
    entry_points={
