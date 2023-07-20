@@ -44,7 +44,7 @@ class PipelineBuilder:
 
     def _parse_job_config(self, logger, applicationProperties):
         obj_job_config = AppConfig.get_my_config(applicationProperties.sPipeline)
-        logger.info("Config obtained for the pipeline key: {} - {}".format(applicationProperties.sPipeline), obj_job_config)
+        logger.info("Config obtained for the pipeline key: {} - {}".format(applicationProperties.sPipeline, obj_job_config))
 
     
 
