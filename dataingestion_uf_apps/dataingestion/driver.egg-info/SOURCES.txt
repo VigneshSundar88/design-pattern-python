@@ -1,9 +1,0 @@
-setup.py
-driver/ApplicationProperties.py
-driver/Driver.py
-driver.egg-info/PKG-INFO
-driver.egg-info/SOURCES.txt
-driver.egg-info/dependency_links.txt
-driver.egg-info/entry_points.txt
-driver.egg-info/requires.txt
-driver.egg-info/top_level.txt

@@ -1,3 +1,0 @@
-[group_1]
-run=dataingestion_uf_apps.dataingestion.driver.Driver:parse_args
-
