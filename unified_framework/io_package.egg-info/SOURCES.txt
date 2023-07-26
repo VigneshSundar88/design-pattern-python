@@ -1,0 +1,10 @@
+setup.py
+io_package/__init__.py
+io_package/io_module.py
+io_package/job_module.py
+io_package.egg-info/PKG-INFO
+io_package.egg-info/SOURCES.txt
+io_package.egg-info/dependency_links.txt
+io_package.egg-info/entry_points.txt
+io_package.egg-info/requires.txt
+io_package.egg-info/top_level.txt

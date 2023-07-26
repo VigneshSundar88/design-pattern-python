@@ -1,0 +1,12 @@
+setup.py
+audit_package/__init__.py
+audit_package/audit_logger.py
+io_package/__init__.py
+io_package/io_module.py
+io_package/job_module.py
+uf_package.egg-info/PKG-INFO
+uf_package.egg-info/SOURCES.txt
+uf_package.egg-info/dependency_links.txt
+uf_package.egg-info/entry_points.txt
+uf_package.egg-info/requires.txt
+uf_package.egg-info/top_level.txt
